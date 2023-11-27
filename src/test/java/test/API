@@ -22,7 +22,7 @@ Feature: sample karate test script for dummies by Suriana Evagelista Nava
         "email": "suriana.evangelista@dominio.com",
         "address": {
           "street": "MiBarrio",
-          "suite": "LaCoyotera",
+          "suite": "Mibarrio",
           "city": "CdMx",
           "zipcode": "00000"
         }
